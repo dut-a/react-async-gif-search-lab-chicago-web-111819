@@ -1,0 +1,21 @@
+/** Bootstrap overrides */
+.list-group-item {
+  margin-left: 0.5%;
+}
+
+.list-group {
+  margin-top: 2%;
+}
+
+#gif-search.form-control {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: auto;
+}
+
+#find-gifs-btn.btn {
+  margin-top: -1%;
+}
+
+
